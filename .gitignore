@@ -19,6 +19,8 @@
 
 /projects/**/Assets/GaussianAssets/*
 /projects/**/Assets/GaussianAssets.meta
+/projects/GaussianExample/Assets/Resources/*
+/projects/GaussianExample/Assets/Resources.meta
 /projects/**/Assets/Models~/*
 /projects/**/Library/*
 /projects/**/Logs/*
