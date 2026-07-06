@@ -6,6 +6,7 @@
 /builds/*
 /images/*
 /Shot-*.png
+*.apk
 
 /Assets/GaussianAssets/*
 /Assets/GaussianAssets.meta
